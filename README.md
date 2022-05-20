@@ -8,6 +8,7 @@ This MATLAB project completed in my Advanved Engineering Mathematics course demo
 - Some image eigenvalues have greater magnitudes than others.
 
 <img src="https://github.com/sebtona/mathematical-image-reconstruction/blob/main/images/image004.png" alt="mag_eigenvalues" width="400" />
+
 - When reconstructing an image, eigenvalues with greater magnitudes contribute more information to the image than eigenvalues with smaller magnitudes when paired with their corresponding eigenvectors.
 
 <img src="https://github.com/sebtona/mathematical-image-reconstruction/blob/main/images/image005.png" alt="1_eigenvalue" width="400" /> <img src="https://github.com/sebtona/mathematical-image-reconstruction/blob/main/images/image007.png" alt="5_eigenvalues" width="400" />
